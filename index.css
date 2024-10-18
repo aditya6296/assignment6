@@ -1,0 +1,105 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.main-box {
+  margin: 40px 0px;
+  height: 550px;
+  width: 400px;
+  box-shadow: 1px 1px 4px 1px rgb(216, 212, 212);
+  border-radius: 20px;
+}
+
+.head-box {
+  margin: 25px 60px;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.input-box {
+  margin: 20px 40px;
+  height: 250px;
+}
+
+.input-1 {
+  padding: 10px;
+  margin: 10px 10px;
+  margin-left: 30px;
+  width: 250px;
+  background-color: rgba(247, 248, 249, 1);
+  border-radius: 10px;
+  border: none;
+}
+
+label {
+  display: block;
+  margin-bottom: -10px;
+  margin-left: 35px;
+}
+
+.buttum-box {
+  margin: 20px 30px;
+  height: 120px;
+}
+
+button{
+  display: block;
+  padding: 8px 100px;
+  margin:auto;
+  background-color: rgba(110, 231, 183, 1);
+  border-radius: 20px;
+  
+}
+.o-r {
+  margin: 10px ;
+  display: flex;
+  justify-content: center;
+}
+
+.s-w-g {
+  text-decoration: none;
+  margin: 90px;
+  background-color: black;
+  padding: 10px 10px;
+}
+
+#icon-text {
+  color: white;
+  text-decoration: none;
+}
+.ping {
+  margin: 10px 40px ;
+  padding: 6px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 20px;
+  background-color: rgba(25, 29, 35, 1);
+}
+
+.google_img  {
+  width: 20px; 
+}
+
+.buttum-text {
+  height: 30px;
+  margin: 0px 80px;
+}
+
+#log-in {
+  text-decoration: none;
+  color: rgb(5, 202, 5);
+}
